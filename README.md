@@ -1,7 +1,11 @@
-### Hi there 👋
+# Hello there, I'm [Omkar Patke](https://omkar-patke.netlify.app/) 👋 
+ ## I'm a Web Developer 
+
+👨🏻‍💻 I love working on JavaScript and React.js.
+
 
 <!--
-**omkarpatke/OmkarPatke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
