@@ -3,8 +3,9 @@
 
 👨🏻‍💻 I love working on JavaScript and React.js.
 
-
 🌱 I’m currently learning Full Stack Web Devolopemnt.
+
+💬 Ask me about HTML, CSS and JS.
 
 
 <!--
