@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack Technologies**
 
-- 👨‍💻 All of my projects are available at [https://omkar--patke.herokuapp.com/](https://omkar--patke.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://omkarpatke.netlify.app/](https://omkarpatke.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS and JS.**
 
